@@ -1,7 +1,7 @@
 
 # NodeJS-FileSystem-Task
 
-This is an sample cart page website which is based on React-Redux which was designed by me using React. It's Guvi-Zen class Roadmap session: Day-32 and React-Redux: Day-12 Task.
+It's my first Backend Server/API task which was designed using node and express. It's Guvi-Zen class Roadmap session: Day-37 and Nodejs- Day -1 Task.
 
 ## Tech Stack
 
