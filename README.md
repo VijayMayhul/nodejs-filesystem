@@ -10,6 +10,7 @@ It's my first Backend Server/API task which was designed using node and express.
 - ExpressJS
 - Nodemon
 - date-fns
+- postman
 
 ## Features
 
@@ -17,7 +18,11 @@ It's my first Backend Server/API task which was designed using node and express.
 
 ## Lessons Learned
 
-Through this task I learned to create express server and API endpoints.
+Through this task I learned to create express server and API endpoints. And also, I learned to use postman-API Testing Tool
+
+## Testing Tool
+
+I used Postman to test my api endpoints are working fine.
 
 ## Website
 
